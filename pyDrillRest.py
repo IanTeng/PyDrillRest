@@ -2,7 +2,6 @@
 #Copyright (c) 2015 - Ian <dengxw@eship.com.cn> 
 
 import requests
-import logging
 
 class DrillClient:
     def __init__(self,server):
